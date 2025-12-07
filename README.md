@@ -52,19 +52,12 @@ This repository presents insights and analysis based on sales performance data o
 
 ## 📎 Files & Visuals Included
 
-
-- Coffeshop.csv
-- Kwa Khoza Coffee Shop pdf  
-- Kwa Khoza Coffee Shop presantation 
-- README.md
-- Recommandation1.pdf
-- Recommandation2.pdf
-- Revenue In Increase.pdf
-- Top10 Selling Product details.pdf
-- Top10 Selling Product datails in Percentage.pdf
-- Top10 Revenue per Product Category in percenatage.pdf
-- Top10 Revenue per Product category in rands.pdf
-- Total Product Revenue by Store locastion. 
+- Category Product Reveneu_By_Make.pdf
+- Category Product_By_Time_Of_Day.pdf
+- Category Type Revenue_By_Location.pdf
+- Category Type Revenue_By_Time_of_Day.pdf
+- Category Type Total_Revenue.pdf
+- KwaKhoza_Presentation.pdf
   
 
 ---
@@ -75,6 +68,7 @@ This repository presents insights and analysis based on sales performance data o
 - Canva
 - MS excel
 - Miro
+- Google locker studio
 - githup
   
 
